@@ -1,0 +1,10 @@
+{
+    "otherside": {
+        "sounds": [
+            {
+                "name": "themes/otherside",
+                "stream": true
+            }
+        ]
+    }
+}
